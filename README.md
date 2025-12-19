@@ -1,22 +1,42 @@
-# Coffee Quality Analysis using Power BI 
+# ☕ Coffee Quality Analysis using Power BI
 
-## Project Overview
-This project analyzes coffee quality data to understand key factors that influence overall coffee ratings.
+## 📊 Project Overview
+This project analyzes coffee quality data from the Coffee Quality Institute (CQI).
+The goal is to understand the factors that influence coffee quality using Power BI.
 
-## Tools Used
+## 🎯 Objectives
+- Analyze key sensory attributes like Aroma, Flavor, Acidity, and Body
+- Study the impact of processing methods and regions on coffee quality
+- Analyze defects and their effect on overall coffee quality
+- Understand how different variables affect Total Cup Points
+
+## 🛠 Tools Used
 - Power BI
-- Power Query
-- DAX
 - Microsoft PowerPoint
+- Microsoft Excel (for basic review)
 
-## Key Insights
-- Flavor and Aroma have the highest average scores
-- Processing method impacts overall cup quality
-- Certain defects negatively affect total cup points
+## 📁 Dataset Information
+- Source: Coffee Quality Institute (CQI)
+- Includes sensory scores, processing methods, regions, and defects data
+- Total Cup Points represent overall coffee quality
 
-## Files in this Repository
-- Coffee Quality Analysis Using Power BI.pptx – Project presentation
-- Coffee Quality Analysis.pbix – Power BI dashboard file
+## 📈 Key Insights
+- Flavor and Aroma have the highest average scores among sensory attributes
+- Processing methods influence coffee quality scores
+- Defects show no significant impact due to zero or low variation in the dataset
+- Total Cup Points vary based on processing method and region
 
-## Author
-Painam Susmitha
+## 📂 Project Files
+- Coffee Quality Analysis.pbix – Power BI report
+- Coffee Quality Analysis.pptx – Presentation
+- README.md – Project description
+
+## 👩‍💻 Skills Demonstrated
+- Data Analysis
+- Power BI Visualizations
+- Business Insights
+- Data Interpretation
+
+## 🔗 Author
+Painam Susmitha  
+Aspiring Data Analyst
