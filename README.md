@@ -37,6 +37,4 @@ The goal is to understand the factors that influence coffee quality using Power 
 - Business Insights
 - Data Interpretation
 
-## 🔗 Author
-Painam Susmitha  
-Aspiring Data Analyst
+
